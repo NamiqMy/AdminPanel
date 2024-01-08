@@ -1,0 +1,8 @@
+C:\Users\ynami\OneDrive\Desktop\Crud\AdminPanel\AdminPanel\obj\Debug\net7.0\AdminPanel.csproj.AssemblyReference.cache
+C:\Users\ynami\OneDrive\Desktop\Crud\AdminPanel\AdminPanel\obj\Debug\net7.0\AdminPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ynami\OneDrive\Desktop\Crud\AdminPanel\AdminPanel\obj\Debug\net7.0\AdminPanel.AssemblyInfoInputs.cache
+C:\Users\ynami\OneDrive\Desktop\Crud\AdminPanel\AdminPanel\obj\Debug\net7.0\AdminPanel.AssemblyInfo.cs
+C:\Users\ynami\OneDrive\Desktop\Crud\AdminPanel\AdminPanel\obj\Debug\net7.0\AdminPanel.csproj.CoreCompileInputs.cache
+C:\Users\ynami\OneDrive\Desktop\Crud\AdminPanel\AdminPanel\obj\Debug\net7.0\AdminPanel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ynami\OneDrive\Desktop\Crud\AdminPanel\AdminPanel\obj\Debug\net7.0\AdminPanel.RazorAssemblyInfo.cache
+C:\Users\ynami\OneDrive\Desktop\Crud\AdminPanel\AdminPanel\obj\Debug\net7.0\AdminPanel.RazorAssemblyInfo.cs
